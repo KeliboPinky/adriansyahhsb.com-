@@ -33,8 +33,8 @@
 
             <!-- Artikel -->
             <article>
-                <div id="single">
-                    <div id="t-images" style="background-image: url('img/1.png');">&nbsp;</div>
+                <div class="single">
+                    <div class="t-images" style="background-image: url('img/1.png');">&nbsp;</div>
                     <h2>T1 Back to Back Worlds 2025?</h2>
                     <p>
                         T1 kembali menjadi sorotan menjelang League of Legends World Championship 2025, 
@@ -44,11 +44,11 @@
                         T1 harus menghadapi lawan-lawan kuat dari LPL dan LCK yang kian kompetitif, serta tekanan besar dari ekspektasi publik dan sejarah yang membebani. 
                         Dengan kombinasi pengalaman, strategi matang, dan ketenangan khas Faker, T1 masih menjadi salah satu kandidat terkuat untuk mempertahankan mahkota mereka dan menulis bab baru dalam legenda League of Legends.
                     </p>
-                    <div id="more"><a href="article1.php">Baca selengkapnya</a></div>
+                    <div class="more"><a href="article1.php">Baca selengkapnya</a></div>
                 </div>
 
-                <div id="single">
-                    <div id="t-images" style="background-image: url('img/2.png');">&nbsp;</div>
+                <div class="single">
+                    <div class="t-images" style="background-image: url('img/2.png');">&nbsp;</div>
                     <h2>Bisakah GEN.G Mengakhiri Dominasi T1 di Worlds?</h2>
                     <p>
                         Gen.G memasuki League of Legends World Championship 2025 dengan ambisi besar: menghentikan dominasi T1 yang telah menguasai panggung dunia selama dua tahun berturut-turut, sekaligus merebut gelar Worlds pertama dalam sejarah organisasi. 
@@ -56,11 +56,11 @@
                         Bagi Gen.G, ini bukan sekadar turnamen — ini adalah kesempatan untuk membuktikan bahwa mereka bukan lagi “runner-up abadi” dan mampu menumbangkan dinasti T1 yang selama ini mendominasi. 
                         Dengan strategi disiplin, koordinasi tim yang rapi, dan motivasi tinggi untuk menorehkan sejarah baru, Gen.G memiliki peluang nyata untuk mematahkan dominasi T1 dan akhirnya mengangkat trofi Worlds pertama mereka.
                     </p>
-                    <div id="more"><a href="article1.php">Baca selengkapnya</a></div>
+                    <div class="more"><a href="article1.php">Baca selengkapnya</a></div>
                 </div>
 
-                <div id="single">
-                    <div id="t-images" style="background-image: url('img/3.png');">&nbsp;</div>
+                <div class="single">
+                    <div class="t-images" style="background-image: url('img/3.png');">&nbsp;</div>
                     <h2>Bisakah Region Lain Mengakhiri Dominasi Korea?</h2>
                     <p>
                         Pertanyaannya kini: bisakah region lain mengakhiri dominasi Korea di Worlds 2025? 
@@ -68,7 +68,7 @@
                         Namun, LPL dari Tiongkok dengan gaya agresif serta G2 Esports dari Eropa kini mulai menantang. 
                         Meski begitu, mengalahkan Korea bukan hal mudah — pengalaman dan konsistensi mereka di panggung dunia masih menjadi tembok tinggi yang sulit ditembus.
                     </p>
-                    <div id="more"><a href="article1.php">Baca selengkapnya</a></div>
+                    <div class="more"><a href="article1.php">Baca selengkapnya</a></div>
                 </div>
             </article>
 
@@ -104,7 +104,7 @@
 
             <!-- Footer -->
             <footer>
-                <div id="column">
+                <div class="column">
                     <h2>Layanan</h2>
                     <p>
                         Match Schedule<br>
@@ -118,7 +118,7 @@
                     </p>
                 </div>
 
-                <div id="column">
+                <div class="column">
                     <h2>Support & Info</h2>
                     <p>
                         Hubungi tim Worlds Support Center untuk informasi tiket,
@@ -128,7 +128,7 @@
                     </p>
                 </div>
 
-                <div id="column">
+                <div class="column">
                     <h2>Head Office</h2>
                     <p>
                         Riot Games Esports HQ<br>
